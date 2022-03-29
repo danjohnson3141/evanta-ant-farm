@@ -53,7 +53,7 @@ function Ant({ x, y, width, height, facing, angle, behavior, name, color }: Prop
         text={name}
         scale={0.05}
         style={new TextStyle({
-          fontSize: 12,
+          fontSize: 16,
         })}
       />
 
