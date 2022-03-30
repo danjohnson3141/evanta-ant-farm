@@ -3,6 +3,6 @@
   "name": "Evanta Ant Farm",
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "theme_color": "#ffffff",
+  "background_color": "#d6af24"
 }

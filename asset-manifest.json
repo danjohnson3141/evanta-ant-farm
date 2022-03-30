@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/antfarm/static/css/main.9ee8d64e.css",
-    "main.js": "/antfarm/static/js/main.22823dc1.js",
-    "static/js/787.d285d1c9.chunk.js": "/antfarm/static/js/787.d285d1c9.chunk.js",
-    "index.html": "/antfarm/index.html",
-    "main.9ee8d64e.css.map": "/antfarm/static/css/main.9ee8d64e.css.map",
-    "main.22823dc1.js.map": "/antfarm/static/js/main.22823dc1.js.map",
-    "787.d285d1c9.chunk.js.map": "/antfarm/static/js/787.d285d1c9.chunk.js.map"
+    "main.css": "/evanta-ant-farm/static/css/main.9ee8d64e.css",
+    "main.js": "/evanta-ant-farm/static/js/main.8c0208a3.js",
+    "static/js/787.40264429.chunk.js": "/evanta-ant-farm/static/js/787.40264429.chunk.js",
+    "static/media/ant2.png": "/evanta-ant-farm/static/media/ant2.223cbefe4b4978f004e6.png",
+    "index.html": "/evanta-ant-farm/index.html",
+    "main.9ee8d64e.css.map": "/evanta-ant-farm/static/css/main.9ee8d64e.css.map",
+    "main.8c0208a3.js.map": "/evanta-ant-farm/static/js/main.8c0208a3.js.map",
+    "787.40264429.chunk.js.map": "/evanta-ant-farm/static/js/787.40264429.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9ee8d64e.css",
-    "static/js/main.22823dc1.js"
+    "static/js/main.8c0208a3.js"
   ]
 }
