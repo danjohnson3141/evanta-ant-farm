@@ -4,7 +4,7 @@ const config = {
   autoSaveIntervalMs: 60 * 1000,
   compactSandDepth: 15, // sand turns to dirt when stacked this high
   initialDirtPercent: 2 / 3,
-  initialAntCount: 20,
+  initialAntCount: 25,
   antColor: '#9537DB', // purple!
 
   probabilities: {

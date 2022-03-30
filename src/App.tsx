@@ -15,7 +15,7 @@ import type { Point } from './Point';
 import type { Ant } from './createAnt';
 import SelectedAntDialog from './components/SelectedAntDialog';
 
-const VERSION = '0.0.4';
+const VERSION = '0.0.5';
 
 // 16:9 aspect ratio to favor widescreen monitors, letterboxing will occur on all other sizes.
 const WORLD_WIDTH = 144;
