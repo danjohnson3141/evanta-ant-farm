@@ -200,7 +200,7 @@ function App() {
       <AppBar color="transparent" elevation={0}>
         <Toolbar variant="dense">
           <Typography sx={{ flexGrow: 1 }} color="primary">
-            Ant Farm
+            Evanta Dev Ant Farm
           </Typography>
           <IconButton onClick={handleTouchAppClick}>
             <TouchAppIcon />
