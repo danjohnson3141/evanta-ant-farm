@@ -20,7 +20,7 @@ import reportWebVitals from './reportWebVitals';
 // TODO: idk if this is good practice or not. docs keep implying it is, but it seems awkward to preload resources
 // surely browser handles this just fine
 import { Loader } from 'pixi.js';
-import antImage from './ant.png';
+import antImage from './ant2.png';
 import { createTheme, ThemeProvider } from '@mui/material';
 
 const theme = createTheme({
