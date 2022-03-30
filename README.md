@@ -2,6 +2,10 @@
 
 See all the busy busy devs making anthills of code.
 
+### github pages link: 
+https://danjohnson3141.github.io/evanta-ant-farm/
+
+### Locally:
 `npm install && npm run build && npm start`
 
 Based on https://meomix.github.io/antfarm/
