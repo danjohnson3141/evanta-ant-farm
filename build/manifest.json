@@ -1,0 +1,8 @@
+{
+  "short_name": "Evanta Ant Farm",
+  "name": "Evanta Ant Farm",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#d6af24"
+}
