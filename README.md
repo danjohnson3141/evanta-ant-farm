@@ -1,4 +1,4 @@
-# Evanta Ant Farm
+# Gartner C-level Communities Ant Farm
 
 See all the busy busy devs making anthills of code.
 
