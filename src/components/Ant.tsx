@@ -53,7 +53,7 @@ function Ant({ x, y, width, height, facing, angle, behavior, name, color }: Prop
         text={name}
         scale={0.05}
         style={new TextStyle({
-          fontSize: 20,
+          fontSize: 24,
           stroke: '#01d27e',
           fill: ['#000000', '#3d3b3b'], // gradient
           wordWrap: true,
