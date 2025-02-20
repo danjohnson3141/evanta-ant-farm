@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/evanta-ant-farm/static/css/main.9ee8d64e.css",
-    "main.js": "/evanta-ant-farm/static/js/main.11eab322.js",
+    "main.js": "/evanta-ant-farm/static/js/main.c0700557.js",
     "static/js/787.40264429.chunk.js": "/evanta-ant-farm/static/js/787.40264429.chunk.js",
     "index.html": "/evanta-ant-farm/index.html",
     "main.9ee8d64e.css.map": "/evanta-ant-farm/static/css/main.9ee8d64e.css.map",
-    "main.11eab322.js.map": "/evanta-ant-farm/static/js/main.11eab322.js.map",
+    "main.c0700557.js.map": "/evanta-ant-farm/static/js/main.c0700557.js.map",
     "787.40264429.chunk.js.map": "/evanta-ant-farm/static/js/787.40264429.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9ee8d64e.css",
-    "static/js/main.11eab322.js"
+    "static/js/main.c0700557.js"
   ]
 }
